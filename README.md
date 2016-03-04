@@ -29,5 +29,5 @@ Foundry's library architecture will be similar to that of a type foundry. As one
 - [X] add initial seed of family alpha and establish an initial framework around it
 - [X] create an initial set of illustrations based arround design and development that can be used, off the shelf, for thoughtbot projects
 - [X] look to refine family alpha within the repo as a test of process and collaborating within a small group on a set of icons/illus
-- [ ] create a backlog outlining the transition from an internal tool, to a public product
+- [x] create a backlog outlining the transition from an internal tool, to a public product
 - [ ] profit :laughing:
